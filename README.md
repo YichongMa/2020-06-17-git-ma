@@ -4,4 +4,6 @@
 - `git status`: tells you want is going on
 - `git add <FILENAME>`: add the file to the staging area
 - `git commit`: opens up nano, commit the file in staging with a message
+- `git log`: shows the history of commits we have done 
+	- `git log --oneline`: shows a shorter oneline version of `git log`
 
