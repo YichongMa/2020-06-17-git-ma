@@ -2,5 +2,6 @@
 
 - `git init`: create a git repository in the current directory
 - `git status`: tells you want is going on
-- `git add`: add the file to the staging area
-- `git commit`: commit the file to git history
+- `git add <FILENAME>`: add the file to the staging area
+- `git commit`: opens up nano, commit the file in staging with a message
+
