@@ -15,5 +15,9 @@
 	- `git checkout master`: to go back to the latest work
 - `HEAD`: tells you where you are looking at in the history
 
+
+## Remotes
+- `git remote add <name> <url>`: gives the remote URL a short NAME
+- `git push <where> <what>`: e.g., `git push origin master` takes the master branch on your local computer and push it to the origin location(e.g. Github)
  
 
